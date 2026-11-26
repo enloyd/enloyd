@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/enloyd/enloyd/main/github-header-image.png" alt="Header banner" width="100%">
+  <img src="https://raw.githubusercontent.com/enloyd/enloyd/main/github-header-image.png.png" alt="Header banner" width="100%">
 
   <h1>Hi, I'm Loyd 👋</h1>
   <h3>Aspiring front-end developer from the Philippines 🇵🇭</h3>
