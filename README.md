@@ -1,9 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/enloyd/enloyd/main/github-header-image.png.png" alt="Header banner" width="100%">
+  <img src="https://raw.githubusercontent.com/enloyd/enloyd/main/banner.png" alt="Ren Loyd Abellera - Network & Technical Support, Web Developer" width="100%">
 
-  <h1>Hi, I'm Loyd 👋</h1>
-  <h3>BSIT graduate · Network & Technical Support · Aspiring Web Developer</h3>
-  <p>📍 Polomolok, South Cotabato, Philippines 🇵🇭</p>
+  <p>Polomolok, South Cotabato, Philippines</p>
 
   <img src="https://komarev.com/ghpvc/?username=enloyd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
@@ -17,7 +15,7 @@ I'm a Bachelor of Science in Information Technology graduate with over a year of
 - 🌱 Currently learning **React.js**
 - 🔧 Background in **network troubleshooting, incident management and fiber optic repair**
 - 🛠️ Building web projects with **HTML, CSS, JavaScript, PHP and MySQL**
-- 🤖 Comfortable working with **AI-assisted coding tools**
+- 🤖 Comfortable working with **AI tools**
 - 🎬 I also edit videos (Filmora, CapCut) as a side skill
 
 ## 🧰 Tech stack
@@ -36,10 +34,9 @@ I'm a Bachelor of Science in Information Technology graduate with over a year of
 
 **IT & networking**
 
-- **Troubleshooting:** LAN/WAN, TCP/IP, Wi-Fi and wired connectivity, authentication issues, root cause analysis
+- **Network Fundamentals** OSI Model, TCP/IP, IP Addressing, Subnetting, DNS, DHCP, Network Topologies
 - **Network platforms:** Fortinet, UniFi, Ruckus, CloudTrax, Nomadix
-- **Ticketing:** Zendesk
-- **Fiber optics:** splicing and repair, OTDR, optical power meter
+- **Ticketing:** Zendesk, CAS
 
 ## 📊 GitHub stats
 
