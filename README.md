@@ -20,21 +20,6 @@ I'm a Bachelor of Science in Information Technology graduate with over a year of
 - 🤖 Comfortable working with **AI-assisted coding tools**
 - 🎬 I also edit videos (Filmora, CapCut) as a side skill
 
-## 💼 Experience highlights
-
-- **Technical Support Engineer** at CallTek Center International (2025 – 2026): handled 100+ network-related incidents weekly, diagnosed connectivity and authentication issues, and worked with network operations teams on escalated cases. Earned the internal **Technical Support Engineer Level 2** certification.
-- **Intern** at Data Connect Micro Services (2023 – 2024): root cause analysis, connectivity troubleshooting, and fiber splicing and repair.
-
-## 🚀 Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| 🚚 **Barkada's Logistics** | Delivery booking and tracking platform for individuals, online sellers and small businesses: account creation, pickup booking, cost estimation, and order tracking from placed to delivered | PHP, MySQL, JavaScript |
-| 🎫 **SA Ticket Desk** | Support ticket management system to organize, track and manage technical support tickets | *(add your stack)* |
-| ⚙️ **IT Support Productivity Tools** | Custom tools that reduce repetitive tasks and streamline support workflows | *(add your stack)* |
-
-> 🔗 Add a link to each repo here once they're public, for example `[Barkada's Logistics](https://github.com/enloyd/REPO-NAME)`.
-
 ## 🧰 Tech stack
 
 **Web development**
