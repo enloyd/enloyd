@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/enloyd/enloyd/main/banner.png" alt="Ren Loyd Abellera - Network & Technical Support, Web Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/enloyd/enloyd/main/github-header-image.png" alt="Ren Loyd Abellera - Network & Technical Support, Web Developer" width="100%">
 
   <p>Polomolok, South Cotabato, Philippines</p>
 
